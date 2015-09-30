@@ -1,0 +1,14 @@
+Jan 30, 2011 10:25:00 PM spacejava_01_05_10.Main main
+INFO: ::::::::::::::::::Init Logging::::::::::::::::::
+Jan 30, 2011 10:50:55 PM spacejava_01_05_10.Main main
+INFO: ::::::::::::::::::Init Logging::::::::::::::::::
+Jan 30, 2011 10:51:17 PM spacejava_01_05_10.Main main
+INFO: ::::::::::::::::::Init Logging::::::::::::::::::
+Jan 30, 2011 10:58:51 PM spacejava_01_05_10.Main main
+INFO: ::::::::::::::::::Init Logging::::::::::::::::::
+Jan 30, 2011 10:59:48 PM spacejava_01_05_10.Main main
+INFO: ::::::::::::::::::Init Logging::::::::::::::::::
+Jan 30, 2011 11:00:53 PM spacejava_01_05_10.Main main
+INFO: ::::::::::::::::::Init Logging::::::::::::::::::
+Apr 6, 2011 8:54:06 PM spacejava_01_05_10.Main main
+INFO: ::::::::::::::::::Init Logging::::::::::::::::::
