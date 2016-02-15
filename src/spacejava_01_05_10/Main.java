@@ -21,7 +21,7 @@ import java.util.Scanner;
  */
 
 public class Main {
-
+// Lots of old C++ code left over in here...
 
     // http://java.about.com/od/workingwithobjects/a/accessormutator.htm
     // http://download.oracle.com/javase/1.4.2/docs/guide/util/logging/overview.html
