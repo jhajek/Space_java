@@ -1,6 +1,9 @@
 language: java
 ant 
 
+jdk:
+  - openjdk7 
+
 deploy:
   provider: script
   script: scripts/deploy.sh
