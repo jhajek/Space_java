@@ -144,18 +144,7 @@ private static char checkIfAtMoonMenu(Ship s, Planet jupiter, Planet earth, Plan
            System.out.println("Welcome to the" + moon.getPlanetoidName() + " your home base ");
 	   System.out.println(":::Space News::: ");
 	   System.out.println("Planet   " + "Iron" + "\t" + "Price" + "\t" + "Sugar" + "\t" + "Price" + "\t" + "Rice" + "\t" + "Price");
-	   // cout << "Jupiter  " <<  << "\t" << j.getIronQuantityDesired() << "\t" << j.getSugar() << "\t" << j.getSugarPrice()  << "\t" << j.getRice() << "\t" << j.getRicePrice() << endl;
-	   // cout << "Earth    " << << "\t" << e.getIronQuantityDesired() << "\t" << e.getSugar() << "\t" << e.getSugarPrice()  << "\t" << e.getRice() << "\t" << e.getRicePrice() << endl;
-	   //  cout << "Ganymede " << g.getIronQuantity() << "\t" << g.getIronQuantityDesired() << "\t" << g.getSugar() << "\t" << g.getSugarPrice()  << "\t" << g.getRice() << "\t" << g.getRicePrice() << endl;
-	   //  cout << "Mars     " << m.getIronQuantity() << "\t" << m.getIronQuantityDesired() << "\t" << m.getSugar() << "\t" << m.getSugarPrice()  << "\t" << m.getRice() << "\t" << m.getRicePrice() << endl;
-	   //  cout << "Saturn   " << S.getIronQuantity() << "\t" << S.getIronQuantityDesired() << "\t" << S.getSugar() << "\t" << S.getSugarPrice()  << "\t" << S.getRice() << "\t" << S.getRicePrice() << endl;
-	   //  cout << "Neptune  " << n.getIronQuantity() << "\t" << n.getIronQuantityDesired() << "\t" << n.getSugar() << "\t" << n.getSugarPrice()  << "\t" << n.getRice() << "\t" << n.getRicePrice() << endl;
-	   //   cout << "Pluto    " << p.getIronQuantity() << "\t" << p.getIronQuantityDesired() << "\t" << p.getSugar() << "\t" << p.getSugarPrice()  << "\t" << p.getRice() << "\t" << p.getRicePrice() << endl;
-	   //   cout << "Ceres    " << c.getIronQuantity() << "\t" << c.getIronQuantityDesired() << "\t" << c.getSugar() << "\t" << c.getSugarPrice()  << "\t" << c.getRice() << "\t" << c.getRicePrice() << endl;
-	   //cout << "Jupiter" << j.getIronQuantity() << "\t" << j.getIronQuantityDesiredQuantity() << "\t" << j.getSugar() << "\t" << j.getSugarPrice()  << "\t" << j.getRice() << "\t" << j.getRicePrice() << endl;
            System.out.println("\n");
-	   // cout << "\nRice: " << p.getRice() << endl;
-	   //cout << "\nFuel: " << p.getFuel() << endl;
 	   System.out.println("1. Check Mail Box: -- Not Functional... \n");
 	   System.out.println("2. Repair Ship: -- Not Functional... \n");
 	   System.out.println("3. Upgrade Ship: -- Not Functional... \n");
