@@ -3,10 +3,6 @@ language: java
 jdk:
   - openjdk7 
 
-deploy:
-  provider: script
-  script: scripts/deploy.sh
-
 branches:
   only:
   - master
